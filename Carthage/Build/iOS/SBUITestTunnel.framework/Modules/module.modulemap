@@ -1,0 +1,6 @@
+framework module SBUITestTunnel {
+  umbrella header "SBUITestTunnel.h"
+
+  export *
+  module * { export * }
+}

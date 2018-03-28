@@ -4,19 +4,19 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>SBUITestTunnel.xcscheme</key>
+		<key>SBUITestTunnel.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
-		<key>SBUITestTunnel_mainTarget.xcscheme_^#shared#^_</key>
+		<key>SBUITestTunnel_mainTarget.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>1</integer>
 		</dict>
-		<key>SBUITestTunnel_testingTarget.xcscheme_^#shared#^_</key>
+		<key>SBUITestTunnel_testingTarget.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>2</integer>

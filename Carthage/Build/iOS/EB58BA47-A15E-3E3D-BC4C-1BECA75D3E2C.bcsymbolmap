@@ -1,0 +1,20 @@
+BCSymbolMap Version: 2.0
+Apple LLVM version 9.0.0 (clang-900.0.39.2)
+/Users/tomaszmnich/Workspace/SBUITestTunnel_carthage/SBUITestTunnel/Classes/Client/XCTestCase+AppExtension.m
+/Users/tomaszmnich/Workspace/SBUITestTunnel_carthage/SBUITestTunnel
+/Users/tomaszmnich/Workspace/SBUITestTunnel_carthage/SBUITestTunnel/Classes/Client/SBTUITunneledApplication.m
+/Users/tomaszmnich/Workspace/SBUITestTunnel_carthage/SBUITestTunnel/Classes/Common/SBTRewrite.m
+/Users/tomaszmnich/Workspace/SBUITestTunnel_carthage/SBUITestTunnel/Classes/Common/NSURLRequest+SBTUITestTunnelMatch.m
+/Users/tomaszmnich/Workspace/SBUITestTunnel_carthage/SBUITestTunnel/Classes/Common/SBTStubResponse.m
+/Users/tomaszmnich/Workspace/SBUITestTunnel_carthage/SBUITestTunnel/Classes/Common/SBTMonitoredNetworkRequest.m
+/Users/tomaszmnich/Workspace/SBUITestTunnel_carthage/SBUITestTunnel/Classes/Common/SBTUITestTunnel.m
+/Users/tomaszmnich/Workspace/SBUITestTunnel_carthage/SBUITestTunnel/Classes/Common/NSString+SwiftDemangle.m
+/Users/tomaszmnich/Workspace/SBUITestTunnel_carthage/SBUITestTunnel/Classes/Common/NSURLRequest+HTTPBodyFix.m
+/Users/tomaszmnich/Workspace/SBUITestTunnel_carthage/SBUITestTunnel/Classes/Common/SBTRequestMatch.m
+/Users/tomaszmnich/Workspace/SBUITestTunnel_carthage/SBUITestTunnel/Classes/Server/NSURLSession+HTTPBodyFix.m
+/Users/tomaszmnich/Workspace/SBUITestTunnel_carthage/SBUITestTunnel/Classes/Server/SBTUITestTunnelServer.m
+/Users/tomaszmnich/Workspace/SBUITestTunnel_carthage/SBUITestTunnel/Classes/Server/UITextField+DisableAutocomplete.m
+/Users/tomaszmnich/Workspace/SBUITestTunnel_carthage/SBUITestTunnel/Classes/Server/NSURLSessionConfiguration+SBTUITestTunnel.m
+/Users/tomaszmnich/Workspace/SBUITestTunnel_carthage/SBUITestTunnel/Classes/Server/NSData+SHA1.m
+/Users/tomaszmnich/Workspace/SBUITestTunnel_carthage/SBUITestTunnel/Classes/Server/SBTProxyURLProtocol.m
+/Users/tomaszmnich/Library/Developer/Xcode/DerivedData/SBUITestTunnel-guzkrehrsvhreufwgolgvnclbajq/Build/Intermediates.noindex/ArchiveIntermediates/SBUITestTunnel/IntermediateBuildFilesPath/SBUITestTunnel.build/Release-iphoneos/SBUITestTunnel.build/DerivedSources/SBUITestTunnel_vers.c
